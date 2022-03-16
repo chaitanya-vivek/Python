@@ -1,0 +1,3 @@
+The "and" function is used commanly used in the if function when two varibles have to be set to true which is a boolean value.
+The "and not" function is used commanly used in the if function when one varible has to be true and the other has to be false.
+The "or" function is used commanly used in the if function when any one of two varibles have to be set to true.
